@@ -1,0 +1,38 @@
+.header{
+    color: white;
+    
+}
+.main{
+background-color:grey;
+display: flex;
+border: black solid 3px ;
+}
+.firstcolor{
+    background-color: lightskyblue;
+    border: black solid 3px;   
+}
+.secondcolor{
+    background-color: lightsalmon;
+    flex-basis: 60%;
+
+}
+.thirdcolor{
+    background-color: lightseagreen;
+    flex flex-basis: 40%;
+    
+}
+#logo{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+#profile{
+    color: white;
+}
+.thirdcolor li{
+    list-style-type: none;
+}
+h3{
+    color: white;
+    font-size: large;
+}
